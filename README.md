@@ -1,3 +1,3 @@
 # road-segmentation
 Extract roads from satellite images  
-![alt text](https://raw.githubusercontent.com/yiliu1/road-segmentation/example.png)
+![alt text]https://github.com/yiliu1/road-segmentation/blob/master/example.png
