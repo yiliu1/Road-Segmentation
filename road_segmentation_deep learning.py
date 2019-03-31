@@ -2,7 +2,7 @@
 Copyright@2017 by Yi Liu and Jan Krepl 
 
 
-Code for CIL project on road segmentation based on Tensorflow .
+Code for road segmentation based on Tensorflow .
 
 The model consists of a 16 layers CNN layers with a soft-max loss.
 We use AdamOptimizer optimization in the tensorflow.
